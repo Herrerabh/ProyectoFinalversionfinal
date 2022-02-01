@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProyectoFinal1</string>
+    <string name="login_usuario">Usuario</string>
+    <string name="login_contraseña">Contraseña</string>
+    <string name="registro_correo">Correo</string>
+    <string name="registro_usuario">Usuario</string>
+    <string name="registro_contraseña">Contraseña</string>
+    <string name="registro_nombre">Nombre</string>
+    <string name="registro_apellido">Apellido</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="registro_confirmar_contraseña">Confirmar contraseña</string>
+    <string name="default_web_cliente_id"> </string>
+
+</resources>
